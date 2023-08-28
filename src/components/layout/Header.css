@@ -1,0 +1,13 @@
+header {
+    background-color: #50409a;
+    padding: 1rem;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+header h1 {
+    font-size: 1rem;
+    font-weight: 200;
+}
